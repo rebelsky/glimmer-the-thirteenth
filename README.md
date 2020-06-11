@@ -4,4 +4,5 @@ An example for my Glimmer students
 
 Include the following files:
 
-* hello.c: The best C program, ever.
+* `hello.c`: A typical introductory C program.
+* `goodbye.c`: Another program.
