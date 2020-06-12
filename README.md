@@ -1,6 +1,7 @@
 # glimmer-the-thirteenth
 
-An example for my Glimmer students
+An example for my Glimmer students.  
+Now with Rainbow Bull!
 
 Include the following files:
 
